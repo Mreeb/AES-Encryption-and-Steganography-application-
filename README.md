@@ -17,6 +17,9 @@ The decryption feature allows users to retrieve the original text from an image 
 # Dynamic Text Input Dialog:
 The text input dialog dynamically adjusts to the overall theme, providing a consistent and seamless experience. Users are prompted to enter text in a larger text box for increased visibility and ease of use.
 
+# Key Generation:
+The key can be Generated from the Code file Given for key Generation this Will Create a key.bin file in your Working Directory. Key Should be with both the Sender and reciver.
+
 # How to Use:
 
 # Encryption:
