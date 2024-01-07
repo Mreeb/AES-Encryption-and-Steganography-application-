@@ -1,4 +1,4 @@
-# AES-Encryption-and-Stenography-application-
+# AES-Encryption-and-Steganography-application-
 
 # CryptoGUI: A Secure Text Encryption and Steganography Tool
 
